@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.dart_tool/
+.packages
+build/
+*.py[cod]
+*.db
+android/key.properties
+android/app/*.jks
+.tmp/
