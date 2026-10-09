@@ -1,6 +1,7 @@
 name: Backend
 on:
-  workflow_dispatch:
+  push:
+  pull_request:
 jobs:
   checks:
     runs-on: ubuntu-latest
